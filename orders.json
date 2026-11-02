@@ -1,0 +1,26 @@
+[
+    {
+        "order_id": "66000",
+        "customer_name": "Tobi Dada",
+        "delivery_address": "23 Ijanikin, nigeria",
+        "package_description": "item7",
+        "delivery_fee": 5000.0,
+        "order_date": "2026-02-02",
+        "expected_delivery_date": "2026-10-29",
+        "rider_id": "80",
+        "status": "Assigned",
+        "completed_date": null
+    },
+    {
+        "order_id": "0912345",
+        "customer_name": "Tobi Toluwani",
+        "delivery_address": "No 8 m close off 7up road",
+        "package_description": "Telivision",
+        "delivery_fee": 500.0,
+        "order_date": "2026-03-12",
+        "expected_delivery_date": "2026-05-10",
+        "rider_id": "099635",
+        "status": "Delivered",
+        "completed_date": "2026-11-02"
+    }
+]
